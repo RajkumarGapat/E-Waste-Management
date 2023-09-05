@@ -1,0 +1,19 @@
+.card{
+  margin: 5% 5%;
+  background-color: #f8f9facf;
+  opacity:0.83;
+}
+
+.card-body{
+  margin: 0% 0% 0% 3%;
+  padding: 6% 0%;
+}
+
+.any{
+  margin-top: 3%;
+}
+.bt{
+  font-weight: bolder;
+  color:black;
+  font-size: medium;
+}

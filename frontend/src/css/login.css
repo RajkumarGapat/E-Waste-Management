@@ -1,0 +1,16 @@
+* {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  box-sizing: border-box;
+}
+.loginflex {
+  align-items: center;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  height: 330px;
+  justify-content: center;
+  margin: 1rem 0;
+  text-align: center;
+}

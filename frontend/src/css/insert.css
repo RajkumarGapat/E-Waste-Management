@@ -1,0 +1,9 @@
+.insert_bg {
+    background-image: url("../images/insert_desc.jpg");
+  background-repeat: none;
+  background-size: cover;
+    
+  }
+ .log {
+    background-color: #f8f9facf;
+  }

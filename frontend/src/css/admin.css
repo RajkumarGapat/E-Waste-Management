@@ -1,0 +1,42 @@
+
+.bt{
+    font-weight: bold;
+    font-size: medium;
+    color:black;
+}
+.card-bg{
+    background-color: #5c7b9acf;
+    opacity:0.75;
+   
+  }
+  
+  .del{
+    font-weight: bold;
+    font-size: medium;
+    color:red;
+  }
+
+  .txt-deco{
+    text-Align:center;
+    color:blue;
+    font-weight:bolder;
+    text-decoration-line:underline;
+    text-decoration-style:double;
+  }
+  .assign_bg {
+    background-image: url("../images/truck.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+  }
+  .pay-bg{
+    background-image: url("../images/money.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+  }
+  .decor{
+    width:30%;
+    height:100px;
+
+  }
